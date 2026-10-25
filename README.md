@@ -2,7 +2,7 @@
 
 **`Software Engineer | Java & Spring Boot | IA Generativa`**
 
-Sou Cauã Dantas Barbosa, Software Engineer com foco em Back-end Java, Spring Boot, IA Generativa e Visão Computacional. Desenvolvo APIs, sistemas corporativos e aplicações inteligentes que utilizam LLMs, arquiteturas RAG e agentes de IA para transformar dados e conhecimento em soluções de negócio. Neste perfil compartilho projetos que demonstram minha evolução em engenharia de software, inteligência artificial e arquitetura de aplicações modernas.
+Sou Cauã, Software Engineer com foco em Back-end Java, Spring Boot, IA Generativa e Visão Computacional. Desenvolvo APIs, sistemas corporativos e aplicações inteligentes que utilizam LLMs, arquiteturas RAG e agentes de IA para transformar dados e conhecimento em soluções de negócio. Neste perfil compartilho projetos que demonstram minha evolução em engenharia de software, inteligência artificial e arquitetura de aplicações modernas.
 
 ---
 
