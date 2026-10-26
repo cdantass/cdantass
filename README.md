@@ -1,10 +1,10 @@
 # 👨🏻‍💻 Cauã Dantas 
 <p align="right">
-  <a href="README.md">🇺🇸 English</a> |
-  <a href="README-ptBR.md">🇧🇷 Português</a>
+  <a href="README.md"pt Português</a> |
+  <a href="README-EN.md"us English</a>
 </p>
 
-**`Software Engineer | Java & Spring Boot | IA Generativa`**
+**`Software Engineer | Java & Python | IA Generativa`**
 
 Sou Cauã, Software Engineer com foco em Back-end Java, Spring Boot, IA Generativa e Visão Computacional. Desenvolvo APIs, sistemas corporativos e aplicações inteligentes que utilizam LLMs, arquiteturas RAG e agentes de IA para transformar dados e conhecimento em soluções de negócio. Neste perfil compartilho projetos que demonstram minha evolução em engenharia de software, inteligência artificial e arquitetura de aplicações modernas.
 
