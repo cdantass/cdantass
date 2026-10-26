@@ -1,4 +1,8 @@
-# 👨🏻‍💻 Cauã Dantas
+# 👨🏻‍💻 Cauã Dantas 
+<p align="right">
+  <a href="README.md">🇺🇸 English</a> |
+  <a href="README-ptBR.md">🇧🇷 Português</a>
+</p>
 
 **`Software Engineer | Java & Spring Boot | IA Generativa`**
 
