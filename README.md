@@ -1,7 +1,8 @@
 # 👨🏻‍💻 Cauã Dantas 
-<p align="right">
-  <a href="README.md"pt Português</a> |
-  <a href="README-EN.md"us English</a>
+
+<p align="center">
+  <a href="./README.md">🇧🇷 Português</a> •
+  <a href="./README-EN.md">🇺🇸 English</a>
 </p>
 
 **`Software Engineer | Java & Python | IA Generativa`**
