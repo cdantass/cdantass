@@ -35,11 +35,11 @@ Sou Cauã, Software Engineer com foco em Back-end Java, Spring Boot, IA Generati
   <img
     alt="Estatísticas do GitHub"
     height="190"
-    src="https://github-readme-stats.vercel.app/api?username=cdantass&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=cdantass&show_icons=true&theme=tokyonight&locale=pt-br&cache_seconds=21600"
   />
   <img
     alt="Tecnologias mais utilizadas"
     height="190"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdantass&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdantass&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=21600"
   />
 </p>
